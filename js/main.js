@@ -18,7 +18,6 @@ var inputMsg;
 var inputFont;
 var inputColor;
 var inputBtn;
-var inputBtn;
 
  function game(){  
    init();
