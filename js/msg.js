@@ -22,7 +22,7 @@ msgObj.prototype.init = function(){
   // 3.4：赋值m 文字  "111"
   this.m[i] = "";
   // 3.5：文字大小和颜色 12px #fff
-  this.font[i] = "12px";
+  this.font[i] = "14px";
   this.color[i] = "#fff";
   // 3.6：赋值spd     3
   this.spd[i] = 3;
